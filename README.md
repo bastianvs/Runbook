@@ -8,6 +8,6 @@ Runbook
 4. [Views](../master/Views.md)
 5. [REST API](../master/Restapi.md)
 6. [Sizing](../master/Sizing.md)
-
+7. [Upgrade](../master/Upgrade.md)
 
 
