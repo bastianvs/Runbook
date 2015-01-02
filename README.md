@@ -9,5 +9,7 @@ Runbook
 5. [REST API](../master/Restapi.md)
 6. [Sizing](../master/Sizing.md)
 7. [Upgrade](../master/Upgrade.md)
+8. [Client SDK](../master/Client.md)
+9. 
 
 
