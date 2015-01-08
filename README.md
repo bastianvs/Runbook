@@ -14,5 +14,5 @@ Runbook
 10. [Backups](../master/files/backups.md)
 11. [Gloassary](../master/files/glossary.md)
 12. [Network Partion](../master/files/network.md)
-13. [Rebalance](../master/files/reblance.md)
+13. [Rebalance](../master/files/rebalance.md)
 
