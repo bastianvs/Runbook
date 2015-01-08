@@ -9,7 +9,8 @@ That message means that the software had a problem opening a port with that addr
 The general consensus is that these messages can occur in circumstances where the Erlang VM is having some kinds of trouble or may be due to any networking issue.
 
 
-2 ####Memecahed Crash
+2. Memecahed Crash
+---------
 
  `[error_logger:error,2014-12-30T0:08:06.258,ns_1@10.42.131.20:error_logger<0.6.0>:ale_error_logger_handler:log_report:72] 
 =========================CRASH REPORT========================= 
