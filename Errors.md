@@ -1,3 +1,0 @@
-Common Erros
-==========
-common erros
