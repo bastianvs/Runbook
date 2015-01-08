@@ -2,7 +2,7 @@ Runbook
 =======
 Runbook
 
-1. [Common Errors](../master/files/Common%20Errors.md)
+1. [Common Errors](../master/files/Errors.md)
 2. [Failover](../master/files/Failover.md)
 3. [XDCR](../master/files/XDCR.md)
 4. [Views](../master/files/Views.md)
