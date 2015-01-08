@@ -11,8 +11,8 @@ Runbook
 7. [Upgrade](../master/files/Upgrade.md)
 8. [Client SDK](../master/files/Client.md)
 9. [Ejection](../master/files/Ejection.md)
-10. [Backups](../master/files/backups.md)
-11. [Gloassary](../master/files/glossary.md)
+10. [Backups](../master/files/Backups.md)
+11. [Gloassary](../master/files/Glossary.md)
 12. [Network Partion](../master/files/network.md)
 13. [Rebalance](../master/files/rebalance.md)
 
