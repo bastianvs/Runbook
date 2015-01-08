@@ -2,6 +2,7 @@ Common Errors
 ==============
 
 * ###IP address seems to have changed
+* ###IP
 
 That message means that the software had a problem opening a port with that address. Couchbase server listens on all interfaces (0.0.0.0), and chooses which interface to use for its name (ns_1@IP) by determining which interface would lead out to external networks. This is determined by your routing table.
 
