@@ -10,7 +10,7 @@ That message means that the application had a problem opening a port with that a
 The general consensus is that these messages can occur in circumstances where the Erlang VM is having some kinds of trouble or may be due to any networking issue.
 
 
-2. Memcahed Crash
+2. Memcached Crash
 ---------
 
  `[error_logger:error,2014-12-30T0:08:06.258,ns_1@10.42.131.20:error_logger<0.6.0>:ale_error_logger_handler:log_report:72] 
