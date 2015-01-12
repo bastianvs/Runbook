@@ -5,12 +5,12 @@ Common Errors
 ----------
 `IP address seems to have changed. Unable to listen on 'ns_1@'`
 
-That message means that the software had a problem opening a port with that address. Couchbase server listens on all interfaces (0.0.0.0), and chooses which interface to use for its name (ns_1@IP) by determining which interface would lead out to external networks. This is determined by your routing table.
+That message means that the application had a problem opening a port with that address. Couchbase server listens on all interfaces (0.0.0.0), and chooses which interface to use for its name (ns_1@IP) by determining which interface would lead out to external networks. This is determined by your routing table.
 
 The general consensus is that these messages can occur in circumstances where the Erlang VM is having some kinds of trouble or may be due to any networking issue.
 
 
-2. Memecahed Crash
+2. Memcahed Crash
 ---------
 
  `[error_logger:error,2014-12-30T0:08:06.258,ns_1@10.42.131.20:error_logger<0.6.0>:ale_error_logger_handler:log_report:72] 
